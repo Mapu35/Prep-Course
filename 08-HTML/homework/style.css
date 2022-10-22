@@ -1,0 +1,35 @@
+h1{
+			color: blueviolet;
+		}
+		img{
+			width: 400px;
+		}
+		#thirdDiv{
+			height: 600px;
+			width: 500px;
+			background-color: orange;
+			 width: 600px;
+            margin: 0 auto; 
+		}
+		#spanId{
+			font-size: 18px;
+			margin: 50px;
+		}
+		.divClass{
+			text-align: center;
+			padding: 50px;
+			border: 10px solid yellow;
+		}
+		body{
+			background-image: url(img/fondo1.jpg);
+			background-repeat: no-repeat;
+			background-size: 100%,100%;
+
+		}
+		.fixed {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            width: 200px;
+            background-color: blueviolet;
+        }
